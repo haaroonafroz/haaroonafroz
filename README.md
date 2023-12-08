@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haaroonafroz
-- 👀 I’m a mechanical engineer and a Data Analytics enthusiast
-- 🌱 I’m currently learning python for data science and analytics
+- 👀 I’m a Digital Engineering student specializing in Software Engineering, and experienced Data Analyst.
+- 🌱 I’m currently learning Computer Vision and Machine Learning.
 
 
 <!---
