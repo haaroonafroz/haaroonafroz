@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haaroonafroz
-- 👀 I’m a Digital Engineering student specializing in Software Engineering, and experienced Data Analyst.
-- 🌱 I’m currently learning Computer Vision and Machine Learning.
+- 👀 I’m a Digital Engineering student specializing in Deep Learning and Computer Vision and an experienced Data Analyst.
+- 🌱 I’m currently learning Machine Learning, Deep Learning in Computer Vision, and Machine Learning.
 
 
 <!---
