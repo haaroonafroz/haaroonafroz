@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haaroonafroz
-- 👀 I’m a Digital Engineering student specializing in Deep Learning and Computer Vision and an experienced Data Analyst.
-- 🌱 I’m currently learning Machine Learning, Deep Learning in Computer Vision, and Machine Learning.
+- 👀 I work on projects in Machine Learning, Deep Learning, Computer Vision, and Software and Web-Development.
+- 🌱 Python is my preferred language, but I also use JavaScript, Java, C++, C# and MATLAB.
 
 
 <!---
